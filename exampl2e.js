@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "Abir Kolin",
+  name: "Abir Kolin2KK",
   profile: "/profile.png",
   designation: "MERN Stack Developer",
   description:
